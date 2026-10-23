@@ -1,0 +1,27 @@
+# Godot editor and imported-resource cache
+.godot/
+.import/
+
+# Generated builds and local exports
+build/
+dist/
+export.cfg
+export_credentials.cfg
+*.pck
+*.exe
+*.apk
+*.aab
+
+# Test captures, temporary saves and local logs
+tests/capture_*.png
+tests/capture_*.webp
+*.tmp
+*.log
+*.invalid-*.json
+/*.zip
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
