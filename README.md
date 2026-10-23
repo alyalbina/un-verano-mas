@@ -7,7 +7,7 @@
 **A painterly point-and-click adventure through Spain**  
 Godot 4.5.1 · GDScript · Playable first chapter · v0.8
 
-[Play the prototype](#play-the-prototype) · [Design case study](docs/CASE_STUDY.md) · [Русский](README_RU.md)
+[Play the prototype](#play-the-prototype) · [Screenshots](docs/SCREENSHOTS.md) · [Design case study](docs/CASE_STUDY.md) · [Русский](README_RU.md)
 
 ![The workshop and the harbor — actual gameplay](docs/media/chapter-one-preview.png)
 
@@ -20,6 +20,17 @@ Lucia finds an old photograph of her grandmother's courtyard. It shows a blue do
 An ordinary Andalusian village opens onto an impossible archive of connected places. To reach the real sea, Lucia must restore the links between light, reflections, echoes and the roads people remember.
 
 The story draws on personal summer memories: a boat to Marbella, ice cream in the old town, turquoise reservoir water, musicians above Ronda and a rooftop evening in Madrid.
+
+## Screenshots
+
+Actual captures from the running Godot prototype, at 1280 × 720. [Open the full gallery — 20 screenshots](docs/SCREENSHOTS.md), including panoramic areas and puzzle close-ups.
+
+| | |
+| :---: | :---: |
+| **Carmen’s courtyard**<br>![Carmen’s courtyard](docs/media/screenshots/01-carmens-courtyard.jpg) | **Carmen’s kitchen**<br>![Carmen’s kitchen](docs/media/screenshots/02-carmens-kitchen.jpg) |
+| **The hidden loggia**<br>![The hidden loggia](docs/media/screenshots/03-hidden-loggia.jpg) | **Reflection street**<br>![Reflection street](docs/media/screenshots/04-reflection-street.jpg) |
+| **The echo plaza**<br>![The echo plaza](docs/media/screenshots/05-echo-plaza.jpg) | **The workshop**<br>![The workshop](docs/media/screenshots/06-workshop.jpg) |
+| **The evening harbor**<br>![The evening harbor](docs/media/screenshots/07-evening-harbor.jpg) | **The coastal lookout**<br>![The coastal lookout](docs/media/screenshots/11-coastal-lookout.jpg) |
 
 ## Playable today
 

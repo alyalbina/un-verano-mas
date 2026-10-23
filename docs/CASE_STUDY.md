@@ -6,6 +6,8 @@ Current artifact: **playable Godot prototype, first chapter v0.8**
 
 ![The workshop and the harbor](media/chapter-one-preview.png)
 
+[Explore the playable chapter in 20 gameplay screenshots](SCREENSHOTS.md).
+
 ## The idea
 
 Turn a summer journey through Spain into an adventure that preserves small, personal moments: a catamaran's black net over the water, ice cream after a walk through Marbella, a lost camera at a reservoir, music in Ronda and an evening above Madrid.

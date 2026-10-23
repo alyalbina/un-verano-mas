@@ -2,6 +2,17 @@
 
 Нативное приключение на Godot 4.x: тёплая Испания, странные промежутки между фотографиями и настоящее путешествие к морю.
 
+## Скриншоты
+
+Кадры из работающей игры в Godot, 1280 × 720. [Полная галерея — 20 скриншотов](docs/SCREENSHOTS.md): все семь локаций, боковые панорамы и крупные планы загадок.
+
+| | |
+| :---: | :---: |
+| **Дворик Кармен**<br>![Дворик Кармен](docs/media/screenshots/01-carmens-courtyard.jpg) | **Кухня Кармен**<br>![Кухня Кармен](docs/media/screenshots/02-carmens-kitchen.jpg) |
+| **Скрытая лоджия**<br>![Скрытая лоджия](docs/media/screenshots/03-hidden-loggia.jpg) | **Улица отражений**<br>![Улица отражений](docs/media/screenshots/04-reflection-street.jpg) |
+| **Площадь трёх откликов**<br>![Площадь трёх откликов](docs/media/screenshots/05-echo-plaza.jpg) | **Мастерская обратного хода**<br>![Мастерская обратного хода](docs/media/screenshots/06-workshop.jpg) |
+| **Вечерняя гавань**<br>![Вечерняя гавань](docs/media/screenshots/07-evening-harbor.jpg) | **Море за поворотом**<br>![Море за поворотом](docs/media/screenshots/11-coastal-lookout.jpg) |
+
 ## Запуск
 
 1. Склонируй репозиторий или скачай Code → Download ZIP и полностью распакуй его.
